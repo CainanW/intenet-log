@@ -1,0 +1,100 @@
+2014-05-25 08:41:20.673000 0 Internet is working!
+2014-05-25 08:45:14.734000 0 Internet is working!
+2014-05-25 08:45:18.805000 0 Internet is working!
+2014-05-25 08:45:22.881000 0 Internet is working!
+2014-05-25 08:45:26.985000 0 Internet is working!
+2014-05-25 08:46:20.602000 0 Internet is working!
+2014-05-25 08:49:14.812000 0 Internet is working!
+2014-05-25 08:49:22.432000 0 Internet is working!
+2014-05-25 08:54:25.509000 0 Internet is working!
+2014-05-25 08:59:28.585000 0 Internet is working!
+2014-05-25 09:04:31.661000 0 Internet is working!
+2014-05-25 09:09:34.738000 0 Internet is working!
+2014-05-25 09:14:37.816000 0 Internet is working!
+2014-05-25 09:19:52.112000 1 Internet is NOT working!
+2014-05-25 09:24:58.409000 1 Internet is NOT working!
+2014-05-25 09:30:31.233000 0 Internet is working!
+2014-05-25 09:35:45.527000 1 Internet is NOT working!
+2014-05-25 09:40:59.820000 1 Internet is NOT working!
+2014-05-25 09:46:14.114000 1 Internet is NOT working!
+2014-05-25 09:51:28.410000 1 Internet is NOT working!
+2014-05-25 09:56:42.705000 1 Internet is NOT working!
+2014-05-25 10:01:57.001000 1 Internet is NOT working!
+2014-05-25 10:07:11.294000 1 Internet is NOT working!
+2014-05-25 10:12:25.588000 1 Internet is NOT working!
+2014-05-25 10:17:39.882000 1 Internet is NOT working!
+2014-05-25 10:22:54.176000 1 Internet is NOT working!
+2014-05-25 10:28:08.470000 1 Internet is NOT working!
+2014-05-25 10:33:22.764000 1 Internet is NOT working!
+2014-05-25 10:38:37.057000 1 Internet is NOT working!
+2014-05-25 10:43:51.352000 1 Internet is NOT working!
+2014-05-25 10:49:05.647000 1 Internet is NOT working!
+2014-05-25 10:54:19.940000 1 Internet is NOT working!
+2014-05-25 10:59:34.234000 1 Internet is NOT working!
+2014-05-25 11:04:48.529000 1 Internet is NOT working!
+2014-05-25 11:10:02.823000 1 Internet is NOT working!
+2014-05-25 11:15:17.117000 1 Internet is NOT working!
+2014-05-25 11:20:31.411000 1 Internet is NOT working!
+2014-05-25 11:25:45.705000 1 Internet is NOT working!
+2014-05-25 11:30:59.998000 1 Internet is NOT working!
+2014-05-25 11:36:14.292000 1 Internet is NOT working!
+2014-05-25 11:41:28.586000 1 Internet is NOT working!
+2014-05-25 11:46:42.880000 1 Internet is NOT working!
+2014-05-25 11:51:57.173000 1 Internet is NOT working!
+2014-05-25 11:57:11.467000 1 Internet is NOT working!
+2014-05-25 12:02:25.761000 1 Internet is NOT working!
+2014-05-25 12:07:28.840000 0 Internet is working!
+2014-05-25 12:12:31.916000 0 Internet is working!
+2014-05-25 12:17:34.995000 0 Internet is working!
+2014-05-25 12:22:38.077000 0 Internet is working!
+2014-05-25 12:27:41.160000 0 Internet is working!
+2014-05-25 12:32:44.236000 0 Internet is working!
+2014-05-25 12:37:47.313000 0 Internet is working!
+2014-05-25 12:42:50.398000 0 Internet is working!
+2014-05-25 12:47:53.480000 0 Internet is working!
+2014-05-25 12:52:56.569000 0 Internet is working!
+2014-05-25 12:57:59.643000 0 Internet is working!
+2014-05-25 13:03:02.721000 0 Internet is working!
+2014-05-25 13:08:05.804000 0 Internet is working!
+2014-05-25 13:13:08.883000 0 Internet is working!
+2014-05-25 13:18:11.963000 0 Internet is working!
+2014-05-25 13:23:15.043000 0 Internet is working!
+2014-05-25 13:28:18.121000 0 Internet is working!
+2014-05-25 13:33:21.199000 0 Internet is working!
+2014-05-25 13:38:24.276000 0 Internet is working!
+2014-05-25 13:43:27.370000 0 Internet is working!
+2014-05-25 13:48:30.448000 0 Internet is working!
+2014-05-25 13:53:33.527000 0 Internet is working!
+2014-05-25 13:58:36.606000 0 Internet is working!
+2014-05-25 14:03:39.684000 0 Internet is working!
+2014-05-25 14:08:42.764000 0 Internet is working!
+2014-05-25 14:13:45.841000 0 Internet is working!
+2014-05-25 14:18:48.922000 0 Internet is working!
+2014-05-25 14:23:52 0 Internet is working!
+2014-05-25 14:28:55.076000 0 Internet is working!
+2014-05-25 14:33:58.158000 0 Internet is working!
+2014-05-25 14:39:01.235000 0 Internet is working!
+2014-05-25 14:44:04.415000 0 Internet is working!
+2014-05-25 14:49:07.494000 0 Internet is working!
+2014-05-25 14:54:10.572000 0 Internet is working!
+2014-05-25 14:59:13.649000 0 Internet is working!
+2014-05-25 15:04:16.818000 0 Internet is working!
+2014-05-25 15:09:19.894000 0 Internet is working!
+2014-05-25 15:14:22.993000 0 Internet is working!
+2014-05-25 15:19:26.071000 0 Internet is working!
+2014-05-25 15:24:29.148000 0 Internet is working!
+2014-05-25 15:29:32.225000 0 Internet is working!
+2014-05-25 15:34:35.317000 0 Internet is working!
+2014-05-25 15:39:46.393000 0 Internet is working!
+2014-05-25 15:44:49.473000 0 Internet is working!
+2014-05-25 15:49:52.604000 0 Internet is working!
+2014-05-25 15:55:06.898000 1 Internet is NOT working!
+2014-05-25 16:00:21.192000 1 Internet is NOT working!
+2014-05-25 16:05:35.487000 1 Internet is NOT working!
+2014-05-25 16:10:38.569000 0 Internet is working!
+2014-05-25 16:15:41.651000 0 Internet is working!
+2014-05-25 16:20:44.728000 0 Internet is working!
+2014-05-25 16:25:47.807000 0 Internet is working!
+2014-05-25 16:30:50.906000 0 Internet is working!
+2014-05-25 16:35:53.988000 0 Internet is working!
+2014-05-25 16:40:57.067000 0 Internet is working!
